@@ -16,10 +16,14 @@ Ever wondered to get the same raw output produced by the perl script, but in pre
 
   Regular `cloc` output :
 
-![cloc output](./screenshosts/cloc.png)
+<img src="./screenshots/cloc.png" alt="cloc output" width="800" >
+
+
+
 
   `pcloc` output :
 
-![pcloc output](./screenshosts/pcloc.png)
+<img src="./screenshots/pcloc.png" alt="pcloc output" width="800" >
+
 
 
