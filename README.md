@@ -14,4 +14,12 @@ Ever wondered to get the same raw output produced by the perl script, but in pre
 
 # Screenshots
 
+  Regular `cloc` output :
+
+![cloc output](./screenshosts/cloc.png)
+
+  `pcloc` output :
+
+![pcloc output](./screenshosts/pcloc.png)
+
 
